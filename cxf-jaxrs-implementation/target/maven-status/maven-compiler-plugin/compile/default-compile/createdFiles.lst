@@ -1,0 +1,4 @@
+com\maixuanviet\cxf\jaxrs\implementation\Student.class
+com\maixuanviet\cxf\jaxrs\implementation\CourseRepository.class
+com\maixuanviet\cxf\jaxrs\implementation\Course.class
+com\maixuanviet\cxf\jaxrs\implementation\RestfulServer.class

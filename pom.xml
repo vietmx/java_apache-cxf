@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.maixuanviet</groupId>
+    <artifactId>java_apache-cxf</artifactId>
+    <version>1.0.0</version>
+    <modules>
+        <module>apache-cxf</module>
+        <module>cxf-introduction</module>
+        <module>cxf-jaxrs-implementation</module>
+        <module>cxf-spring</module>
+        <module>sse-jaxrs</module>
+    </modules>
+    <packaging>pom</packaging>
+    <name>apache-cxf</name>
+    <description>Apache CXF</description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>11</java.version>
+        <cxf.version>3.1.8</cxf.version>
+        <maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
+    </properties>
+
+
+</project>

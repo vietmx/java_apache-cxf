@@ -1,0 +1,5 @@
+<mappings xmlns:ns="http://www.maixuanviet.com">
+    <mapping name="ns:VietMX">
+        <property name="greeting" style="attribute"/>
+    </mapping>
+</mappings>

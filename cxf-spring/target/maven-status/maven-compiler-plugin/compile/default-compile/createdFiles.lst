@@ -1,0 +1,6 @@
+com\maixuanviet\cxf\spring\ClientConfiguration.class
+com\maixuanviet\cxf\spring\VietMXImpl.class
+com\maixuanviet\cxf\spring\AppInitializer.class
+com\maixuanviet\cxf\spring\Student.class
+com\maixuanviet\cxf\spring\VietMX.class
+com\maixuanviet\cxf\spring\ServiceConfiguration.class

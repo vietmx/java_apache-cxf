@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty\wlp</installDirectory>
+    <serverDirectory>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty\wlp\usr\servers\defaultServer</serverDirectory>
+    <userDirectory>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty\wlp\usr\servers\defaultServer</serverOutputDirectory>
+    <serverName>defaultServer</serverName>
+    <configFile>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>dropins</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>sse-jaxrs-server.war.xml</applicationFilename>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-webProfile8</artifactId>
+        <version>18.0.0.2</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\maixu\.m2\repository\io\openliberty\openliberty-webProfile8\18.0.0.2\openliberty-webProfile8-18.0.0.2.zip</assemblyArchive>
+    <assemblyInstallDirectory>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <installAppsConfigDropins>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty\wlp\usr\servers\defaultServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <projectType>war</projectType>
+    <aggregatorParentId>sse-jaxrs</aggregatorParentId>
+    <aggregatorParentBasedir>D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs</aggregatorParentBasedir>
+</liberty-plugin-config>

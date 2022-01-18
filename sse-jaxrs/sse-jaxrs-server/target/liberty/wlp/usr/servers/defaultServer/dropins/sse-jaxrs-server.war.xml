@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="D:\Project\JAVA_PROJECT\java_apache-cxf\sse-jaxrs\sse-jaxrs-server\target\liberty-maven\resources\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
